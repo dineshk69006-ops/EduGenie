@@ -1,0 +1,1 @@
+This project is generated for the user's educational project based on the supplied EduGenie documentation.

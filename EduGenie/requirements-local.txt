@@ -1,0 +1,7 @@
+# Optional local LaMini-Flan-T5 explanation model.
+# Install this only if USE_LOCAL_EXPLAINER=true.
+-r requirements.txt
+transformers>=4.45,<5
+torch>=2.2
+sentencepiece>=0.2
+accelerate>=0.34
